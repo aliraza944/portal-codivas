@@ -12,6 +12,10 @@ const Content = () => {
                     <h2>PROJECTS</h2>
                     {/* IMPORT & INSERT PAGE CONTENT HERE */}
                 </Route>
+                <Route path="/Login">
+                     <h2>Login</h2>
+                    {/* IMPORT & INSERT PAGE CONTENT HERE */}
+                </Route>
             </Switch>
         </main>
     )
